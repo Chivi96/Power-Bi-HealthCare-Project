@@ -11,8 +11,9 @@ In a healthcare industry that relies heavily on data to make informed decisions 
 ### **Objective**
 
 As an analyst at HealthStat Solutions, your objective is to leverage Power BI for a deep dive into the provided healthcare datasets. This task encompasses meticulous data cleaning and sophisticated data modeling, utilizing DAX for advanced analytics. Your goal is to create a comprehensive, interactive dashboard in Power BI that presents a cohesive narrative of the healthcare data. This dashboard should serve as a tool to uncover and visualize important trends, such as the interplay between patient demographics and treatment outcomes, cost implications of various medical procedures, and overall hospital performance metrics. Your analysis will provide invaluable insights, aiding healthcare providers in enhancing patient care and operational efficiency, and positioning HealthStat Solutions at the forefront of healthcare analytics.
-![image](https://github.com/Chivi96/Power-Bi-HealthCare-Project/assets/134154170/a5482f83-23c1-4fb2-8c7d-badb627b18bb)
-![image](https://github.com/Chivi96/Power-Bi-HealthCare-Project/assets/134154170/17931871-dec2-420f-9dd9-1c53796541e9)
+
+![image](https://github.com/Chivi96/Power-Bi-HealthCare-Project/assets/134154170/7141b7ca-e28f-4ff3-9d37-25c621ca3d1d)
+
 
 ### *CONCLUSION*
 1 Cost Dynamics:
